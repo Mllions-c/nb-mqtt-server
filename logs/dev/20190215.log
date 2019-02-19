@@ -1,0 +1,398 @@
+{"name":"server","hostname":"JRA1W1PF12323V","pid":628,"level":30,"msg":"broker router init success","time":"2019-02-15T10:48:19.126Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":628,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T10:48:19.131Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"broker router init success","time":"2019-02-15T10:48:19.127Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"The server started successfully!The current server started is: { id: 'b-server',\n  ip: '127.0.0.1',\n  httpPort: 8002,\n  httpsPort: 8112 }","time":"2019-02-15T10:48:19.131Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":628,"level":30,"msg":"Redis client connected","time":"2019-02-15T10:48:19.137Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"Redis client connected","time":"2019-02-15T10:48:19.137Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":628,"level":30,"msg":"login router init success","time":"2019-02-15T10:48:19.130Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":628,"level":30,"msg":"The current server process id is:628 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T10:48:19.135Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"login router init success","time":"2019-02-15T10:48:19.129Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"The current server process id is:7696 { address: '::', family: 'IPv6', port: 8002 }","time":"2019-02-15T10:48:19.135Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:48:54.116Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:17 ms","time":"2019-02-15T10:48:54.133Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:48:54.149Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T10:48:54.151Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:31.506Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T10:50:31.508Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:31.522Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:31.523Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:31.818Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T10:50:31.820Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:31.836Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:31.837Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:32.024Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T10:50:32.026Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:32.042Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:32.043Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:32.209Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T10:50:32.210Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:32.224Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:32.225Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:32.392Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T10:50:32.393Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:32.407Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:32.408Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:32.592Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T10:50:32.593Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:32.607Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:32.608Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:35.467Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T10:50:35.468Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:35.485Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:35.487Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T10:50:35.664Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T10:50:35.666Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T10:50:35.685Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7696,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T10:50:35.686Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17740,"level":30,"msg":"broker router init success","time":"2019-02-15T11:11:00.797Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17740,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:11:00.801Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":17740,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:11:00.812Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17740,"level":30,"msg":"login router init success","time":"2019-02-15T11:11:00.800Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17740,"level":30,"msg":"The current server process id is:17740 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:11:00.807Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19644,"level":30,"msg":"broker router init success","time":"2019-02-15T11:17:52.328Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19644,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:17:52.339Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":19644,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:17:52.360Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19644,"level":30,"msg":"The current server process id is:19644 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:17:52.351Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19644,"level":30,"msg":"login router init success","time":"2019-02-15T11:17:52.337Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15960,"level":30,"msg":"broker router init success","time":"2019-02-15T11:17:58.963Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15960,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:17:58.966Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":15960,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:17:58.976Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15960,"level":30,"msg":"login router init success","time":"2019-02-15T11:17:58.966Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15960,"level":30,"msg":"The current server process id is:15960 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:17:58.971Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"broker router init success","time":"2019-02-15T11:18:35.012Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"The server started successfully!The current server started is: { id: 'b-server',\n  ip: '127.0.0.1',\n  httpPort: 8002,\n  httpsPort: 8112 }","time":"2019-02-15T11:18:35.015Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11344,"level":30,"msg":"broker router init success","time":"2019-02-15T11:18:35.012Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11344,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:18:35.015Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:18:35.021Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":11344,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:18:35.021Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"login router init success","time":"2019-02-15T11:18:35.014Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"The current server process id is:13524 { address: '::', family: 'IPv6', port: 8002 }","time":"2019-02-15T11:18:35.020Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11344,"level":30,"msg":"login router init success","time":"2019-02-15T11:18:35.014Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11344,"level":30,"msg":"The current server process id is:11344 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:18:35.020Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:18:38.523Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"res data>>>>>>>>>: 200:OK:22 ms","time":"2019-02-15T11:18:38.545Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:18:38.607Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:18:38.609Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:18:40.381Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T11:18:40.383Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:18:40.397Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":13524,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:4 ms","time":"2019-02-15T11:18:40.401Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"broker router init success","time":"2019-02-15T11:20:15.627Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"The server started successfully!The current server started is: { id: 'b-server',\n  ip: '127.0.0.1',\n  httpPort: 8002,\n  httpsPort: 8112 }","time":"2019-02-15T11:20:15.630Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15064,"level":30,"msg":"broker router init success","time":"2019-02-15T11:20:15.627Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15064,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:20:15.630Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":15064,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:20:15.636Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:20:15.636Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15064,"level":30,"msg":"login router init success","time":"2019-02-15T11:20:15.629Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15064,"level":30,"msg":"The current server process id is:15064 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:20:15.634Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"login router init success","time":"2019-02-15T11:20:15.629Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"The current server process id is:21256 { address: '::', family: 'IPv6', port: 8002 }","time":"2019-02-15T11:20:15.634Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:20:18.098Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 200:OK:16 ms","time":"2019-02-15T11:20:18.114Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:20:18.131Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:72 ms","time":"2019-02-15T11:20:18.203Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":50,"msg":"unhandledRejection at: Promise {\n  <rejected> { ReplyError: ERR invalid expire time in set\n      at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n      at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' } } reason: { ReplyError: ERR invalid expire time in set\n    at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n    at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' }","time":"2019-02-15T11:20:18.210Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:20:44.175Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T11:20:44.177Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":50,"msg":"unhandledRejection at: Promise {\n  <rejected> { ReplyError: ERR invalid expire time in set\n      at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n      at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' } } reason: { ReplyError: ERR invalid expire time in set\n    at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n    at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' }","time":"2019-02-15T11:20:44.179Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:20:44.192Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T11:20:44.193Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:20:44.390Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T11:20:44.391Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":50,"msg":"unhandledRejection at: Promise {\n  <rejected> { ReplyError: ERR invalid expire time in set\n      at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n      at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' } } reason: { ReplyError: ERR invalid expire time in set\n    at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n    at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' }","time":"2019-02-15T11:20:44.392Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:20:44.405Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T11:20:44.406Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:20:44.590Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 200:OK:1 ms","time":"2019-02-15T11:20:44.591Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":50,"msg":"unhandledRejection at: Promise {\n  <rejected> { ReplyError: ERR invalid expire time in set\n      at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n      at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' } } reason: { ReplyError: ERR invalid expire time in set\n    at parseError (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:193:12)\n    at parseType (C:\\Users\\denghuanyin\\WebstormProjects\\test3\\node_modules\\_redis-parser@2.6.0@redis-parser\\lib\\parser.js:303:14) command: 'SET', args: [ 'asd', '100', 'EX', -1 ], code: 'ERR' }","time":"2019-02-15T11:20:44.592Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:20:44.605Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21256,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T11:20:44.606Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":16168,"level":30,"msg":"broker router init success","time":"2019-02-15T11:22:36.201Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":16168,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:22:36.206Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":16168,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:22:36.213Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":16168,"level":30,"msg":"login router init success","time":"2019-02-15T11:22:36.205Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":16168,"level":30,"msg":"The current server process id is:16168 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:22:36.210Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"broker router init success","time":"2019-02-15T11:22:36.215Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"The server started successfully!The current server started is: { id: 'b-server',\n  ip: '127.0.0.1',\n  httpPort: 8002,\n  httpsPort: 8112 }","time":"2019-02-15T11:22:36.219Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:22:36.224Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"login router init success","time":"2019-02-15T11:22:36.218Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"The current server process id is:12148 { address: '::', family: 'IPv6', port: 8002 }","time":"2019-02-15T11:22:36.223Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:22:38.328Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:16 ms","time":"2019-02-15T11:22:38.343Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:22:38.361Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:22:38.363Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:23:04.594Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:23:04.596Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:23:04.616Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12148,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:23:04.618Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"broker router init success","time":"2019-02-15T11:24:02.292Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:24:02.295Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:24:02.309Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"The current server process id is:10044 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:24:02.300Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"login router init success","time":"2019-02-15T11:24:02.294Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:24:23.860Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:15 ms","time":"2019-02-15T11:24:23.875Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:24:23.894Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10044,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:3 ms","time":"2019-02-15T11:24:23.897Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22280,"level":30,"msg":"broker router init success","time":"2019-02-15T11:24:40.870Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22280,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:24:40.874Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":22280,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:24:40.887Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22280,"level":30,"msg":"login router init success","time":"2019-02-15T11:24:40.874Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22280,"level":30,"msg":"The current server process id is:22280 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:24:40.881Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6224,"level":30,"msg":"broker router init success","time":"2019-02-15T11:24:54.591Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6224,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:24:54.595Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":6224,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:24:54.606Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6224,"level":30,"msg":"login router init success","time":"2019-02-15T11:24:54.594Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6224,"level":30,"msg":"The current server process id is:6224 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:24:54.600Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10428,"level":30,"msg":"broker router init success","time":"2019-02-15T11:25:02.569Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10428,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:25:02.573Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":10428,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:25:02.584Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10428,"level":30,"msg":"The current server process id is:10428 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:25:02.578Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10428,"level":30,"msg":"login router init success","time":"2019-02-15T11:25:02.572Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"broker router init success","time":"2019-02-15T11:25:16.062Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:25:16.067Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:25:16.078Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"The current server process id is:7892 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:25:16.073Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"login router init success","time":"2019-02-15T11:25:16.065Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:25:26.897Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:11 ms","time":"2019-02-15T11:25:26.907Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:25:26.929Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7892,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:25:26.931Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":3936,"level":30,"msg":"broker router init success","time":"2019-02-15T11:27:23.612Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":3936,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:27:23.622Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":3936,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:27:23.639Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":3936,"level":30,"msg":"login router init success","time":"2019-02-15T11:27:23.619Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":3936,"level":30,"msg":"The current server process id is:3936 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:27:23.634Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"broker router init success","time":"2019-02-15T11:27:30.212Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:27:30.215Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:27:30.226Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"login router init success","time":"2019-02-15T11:27:30.214Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"The current server process id is:7268 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:27:30.220Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:27:32.983Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:11 ms","time":"2019-02-15T11:27:32.994Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T11:27:33.010Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7268,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T11:27:33.012Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21832,"level":30,"msg":"broker router init success","time":"2019-02-15T11:30:15.867Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21832,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:30:15.881Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":21832,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:30:15.914Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21832,"level":30,"msg":"login router init success","time":"2019-02-15T11:30:15.877Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21832,"level":30,"msg":"The current server process id is:21832 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:30:15.900Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"broker router init success","time":"2019-02-15T11:30:23.222Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T11:30:23.226Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"Redis client connected","time":"2019-02-15T11:30:23.237Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"The current server process id is:18552 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T11:30:23.231Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"login router init success","time":"2019-02-15T11:30:23.225Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:30:24.904Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":18552,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T11:30:34.373Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"broker router init success","time":"2019-02-15T12:33:19.493Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:33:19.496Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:33:19.508Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"The current server process id is:17880 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:33:19.503Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"login router init success","time":"2019-02-15T12:33:19.496Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:33:23.767Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"res data>>>>>>>>>: 200:OK:21 ms","time":"2019-02-15T12:33:23.787Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:33:23.850Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17880,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:3 ms","time":"2019-02-15T12:33:23.853Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11760,"level":30,"msg":"broker router init success","time":"2019-02-15T12:34:15.679Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11760,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:34:15.684Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":11760,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:34:15.697Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11760,"level":30,"msg":"login router init success","time":"2019-02-15T12:34:15.682Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11760,"level":30,"msg":"The current server process id is:11760 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:34:15.689Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"broker router init success","time":"2019-02-15T12:34:25.106Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:34:25.110Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:34:25.125Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"login router init success","time":"2019-02-15T12:34:25.109Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"The current server process id is:11684 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:34:25.117Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:34:28.659Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"","time":"2019-02-15T12:34:28.670Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"res data>>>>>>>>>: 200:OK:15 ms","time":"2019-02-15T12:34:28.673Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:34:28.689Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11684,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:34:28.691Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17616,"level":30,"msg":"broker router init success","time":"2019-02-15T12:36:08.575Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17616,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:36:08.589Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":17616,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:36:08.615Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17616,"level":30,"msg":"login router init success","time":"2019-02-15T12:36:08.587Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":17616,"level":30,"msg":"The current server process id is:17616 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:36:08.601Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"broker router init success","time":"2019-02-15T12:36:14.121Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:36:14.127Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:36:14.142Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"login router init success","time":"2019-02-15T12:36:14.124Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"The current server process id is:20932 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:36:14.136Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:36:16.579Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"","time":"2019-02-15T12:36:16.591Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:12 ms","time":"2019-02-15T12:36:16.591Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:36:16.617Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:3 ms","time":"2019-02-15T12:36:16.620Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:36:21.407Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"","time":"2019-02-15T12:36:21.409Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:36:21.410Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:36:21.427Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20932,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T12:36:21.428Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22288,"level":30,"msg":"broker router init success","time":"2019-02-15T12:36:48.937Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22288,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:36:48.940Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":22288,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:36:48.950Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22288,"level":30,"msg":"login router init success","time":"2019-02-15T12:36:48.939Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":22288,"level":30,"msg":"The current server process id is:22288 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:36:48.945Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12184,"level":30,"msg":"broker router init success","time":"2019-02-15T12:39:37.989Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12184,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:39:37.993Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":12184,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:39:38.002Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12184,"level":30,"msg":"The current server process id is:12184 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:39:37.997Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12184,"level":30,"msg":"login router init success","time":"2019-02-15T12:39:37.991Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":8504,"level":30,"msg":"broker router init success","time":"2019-02-15T12:40:09.305Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":8504,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:40:09.309Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":8504,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:40:09.322Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":8504,"level":30,"msg":"login router init success","time":"2019-02-15T12:40:09.307Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":8504,"level":30,"msg":"The current server process id is:8504 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:40:09.316Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"broker router init success","time":"2019-02-15T12:40:18.399Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:40:18.405Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:40:18.417Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"login router init success","time":"2019-02-15T12:40:18.402Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"The current server process id is:12072 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:40:18.411Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:41:12.345Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"","time":"2019-02-15T12:41:12.358Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:14 ms","time":"2019-02-15T12:41:12.359Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:41:12.379Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":12072,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:41:12.381Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20124,"level":30,"msg":"broker router init success","time":"2019-02-15T12:42:53.406Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20124,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:42:53.422Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":20124,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:42:53.462Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20124,"level":30,"msg":"login router init success","time":"2019-02-15T12:42:53.418Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20124,"level":30,"msg":"The current server process id is:20124 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:42:53.444Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"broker router init success","time":"2019-02-15T12:42:59.313Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:42:59.318Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:42:59.333Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"login router init success","time":"2019-02-15T12:42:59.317Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"The current server process id is:4232 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:42:59.325Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:43:01.335Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"","time":"2019-02-15T12:43:01.350Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:16 ms","time":"2019-02-15T12:43:01.350Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:43:01.369Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":4232,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:43:01.371Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15480,"level":30,"msg":"broker router init success","time":"2019-02-15T12:44:01.852Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15480,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:44:01.856Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":15480,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:44:01.868Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15480,"level":30,"msg":"login router init success","time":"2019-02-15T12:44:01.855Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15480,"level":30,"msg":"The current server process id is:15480 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:44:01.862Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5956,"level":30,"msg":"broker router init success","time":"2019-02-15T12:45:29.849Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5956,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:45:29.853Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":5956,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:45:29.863Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5956,"level":30,"msg":"login router init success","time":"2019-02-15T12:45:29.852Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5956,"level":30,"msg":"The current server process id is:5956 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:45:29.858Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21308,"level":30,"msg":"broker router init success","time":"2019-02-15T12:46:44.025Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21308,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:46:44.029Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":21308,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:46:44.039Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21308,"level":30,"msg":"The current server process id is:21308 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:46:44.034Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21308,"level":30,"msg":"login router init success","time":"2019-02-15T12:46:44.028Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"broker router init success","time":"2019-02-15T12:46:51.951Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:46:51.954Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:46:51.969Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"login router init success","time":"2019-02-15T12:46:51.953Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"The current server process id is:11632 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:46:51.959Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:46:55.323Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"","time":"2019-02-15T12:46:55.335Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:13 ms","time":"2019-02-15T12:46:55.336Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:46:55.352Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":11632,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:46:55.354Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19088,"level":30,"msg":"broker router init success","time":"2019-02-15T12:47:52.680Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19088,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:47:52.684Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":19088,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:47:52.694Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19088,"level":30,"msg":"login router init success","time":"2019-02-15T12:47:52.683Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19088,"level":30,"msg":"The current server process id is:19088 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:47:52.689Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21108,"level":30,"msg":"broker router init success","time":"2019-02-15T12:50:54.177Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21108,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:50:54.181Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":21108,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:50:54.190Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21108,"level":30,"msg":"login router init success","time":"2019-02-15T12:50:54.180Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":21108,"level":30,"msg":"The current server process id is:21108 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:50:54.185Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":2556,"level":30,"msg":"broker router init success","time":"2019-02-15T12:51:03.787Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":2556,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:51:03.791Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":2556,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:51:03.801Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":2556,"level":30,"msg":"The current server process id is:2556 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:51:03.796Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":2556,"level":30,"msg":"login router init success","time":"2019-02-15T12:51:03.790Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"broker router init success","time":"2019-02-15T12:51:12.686Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:51:12.690Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:51:12.703Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"login router init success","time":"2019-02-15T12:51:12.689Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"The current server process id is:19936 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:51:12.696Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:51:15.751Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"res data>>>>>>>>>: 200:OK:16 ms","time":"2019-02-15T12:51:15.767Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:51:15.784Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19936,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T12:51:15.785Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":1168,"level":30,"msg":"broker router init success","time":"2019-02-15T12:53:41.469Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":1168,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:53:41.473Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":1168,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:53:41.489Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":1168,"level":30,"msg":"login router init success","time":"2019-02-15T12:53:41.472Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":1168,"level":30,"msg":"The current server process id is:1168 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:53:41.482Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"broker router init success","time":"2019-02-15T12:53:59.908Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:53:59.915Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:53:59.932Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"The current server process id is:6956 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:53:59.922Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"login router init success","time":"2019-02-15T12:53:59.911Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:54:02.923Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"res data>>>>>>>>>: 200:OK:15 ms","time":"2019-02-15T12:54:02.938Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:54:02.954Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":6956,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:54:02.956Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5712,"level":30,"msg":"broker router init success","time":"2019-02-15T12:54:24.910Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5712,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:54:24.914Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":5712,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:54:24.926Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5712,"level":30,"msg":"login router init success","time":"2019-02-15T12:54:24.912Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5712,"level":30,"msg":"The current server process id is:5712 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:54:24.919Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"broker router init success","time":"2019-02-15T12:54:32.223Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:54:32.227Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:54:32.240Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"login router init success","time":"2019-02-15T12:54:32.225Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"The current server process id is:19824 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:54:32.233Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:54:35.902Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 200:OK:21 ms","time":"2019-02-15T12:54:35.922Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:54:35.940Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:54:35.942Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:54:36.151Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T12:54:36.153Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:54:36.172Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:1 ms","time":"2019-02-15T12:54:36.173Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:54:36.433Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T12:54:36.435Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:54:36.455Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":19824,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:2 ms","time":"2019-02-15T12:54:36.457Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20424,"level":30,"msg":"broker router init success","time":"2019-02-15T12:57:51.666Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20424,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:57:51.680Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":20424,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:57:51.711Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20424,"level":30,"msg":"login router init success","time":"2019-02-15T12:57:51.678Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20424,"level":30,"msg":"The current server process id is:20424 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:57:51.696Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"broker router init success","time":"2019-02-15T12:57:56.344Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:57:56.348Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:57:56.358Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"login router init success","time":"2019-02-15T12:57:56.347Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"The current server process id is:7316 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:57:56.353Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:58:00.168Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"res data>>>>>>>>>: 200:OK:15 ms","time":"2019-02-15T12:58:00.183Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:58:00.201Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":7316,"level":30,"msg":"res data>>>>>>>>>: 200:OK:2 ms","time":"2019-02-15T12:58:00.203Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15032,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:58:51.323Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15032,"level":30,"msg":"broker router init success","time":"2019-02-15T12:58:51.320Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":15032,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:58:51.335Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15032,"level":30,"msg":"The current server process id is:15032 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:58:51.329Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":15032,"level":30,"msg":"login router init success","time":"2019-02-15T12:58:51.322Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10712,"level":30,"msg":"broker router init success","time":"2019-02-15T12:59:29.449Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10712,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:59:29.453Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":10712,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:59:29.464Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10712,"level":30,"msg":"The current server process id is:10712 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:59:29.458Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":10712,"level":30,"msg":"login router init success","time":"2019-02-15T12:59:29.452Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5304,"level":30,"msg":"broker router init success","time":"2019-02-15T12:59:33.042Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5304,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:59:33.047Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":5304,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:59:33.056Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5304,"level":30,"msg":"login router init success","time":"2019-02-15T12:59:33.045Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":5304,"level":30,"msg":"The current server process id is:5304 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:59:33.051Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":880,"level":30,"msg":"broker router init success","time":"2019-02-15T12:59:48.722Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":880,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:59:48.726Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":880,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:59:48.736Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":880,"level":30,"msg":"login router init success","time":"2019-02-15T12:59:48.725Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":880,"level":30,"msg":"The current server process id is:880 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:59:48.731Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"broker router init success","time":"2019-02-15T12:59:55.035Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"The server started successfully!The current server started is: { id: 'a-server',\n  ip: '127.0.0.1',\n  httpPort: 8001,\n  httpsPort: 8111 }","time":"2019-02-15T12:59:55.040Z","v":0}
+{"name":"redis","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"Redis client connected","time":"2019-02-15T12:59:55.055Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"login router init success","time":"2019-02-15T12:59:55.038Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"The current server process id is:20252 { address: '::', family: 'IPv6', port: 8001 }","time":"2019-02-15T12:59:55.045Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/ad/getBroker","time":"2019-02-15T12:59:57.415Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"res data>>>>>>>>>: 200:OK:13 ms","time":"2019-02-15T12:59:57.428Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"req data: GET:::ffff:127.0.0.1:/favicon.ico","time":"2019-02-15T12:59:57.447Z","v":0}
+{"name":"server","hostname":"JRA1W1PF12323V","pid":20252,"level":30,"msg":"res data>>>>>>>>>: 404:Not Found:6 ms","time":"2019-02-15T12:59:57.453Z","v":0}
